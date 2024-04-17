@@ -1,0 +1,25 @@
+body{
+    background-color: #C299FC;
+}
+.logo{
+    width: 10rem;
+    height: auto;
+}
+.header {
+    background-color: white;
+}
+/* .merch{
+    width: rem;
+   
+} */
+.text-center{
+    margin: 5rem;
+}
+.comentarios img{
+    width: 15rem;
+    height: auto;
+    border-radius: 10000px;
+}
+.Pie-pagina{
+    background-color: white;
+}
