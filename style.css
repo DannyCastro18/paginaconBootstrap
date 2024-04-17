@@ -11,11 +11,32 @@ body{
 .text-center{
     margin: 5rem;
 }
-.comentarios img{
-    width: 15rem;
+.tarjeta {
+    width: 10rem;
+}
+.tarjeta img{
+    width: 10rem;
     height: auto;
-    border-radius: 10000px;
+    border-radius: 50%;
 }
 .Pie-pagina{
     background-color: white;
+}
+.noticia{
+    width: 30%;
+    height: auto;
+}
+.news{
+    width: 30rem;
+    height: auto;
+    margin: 12px;
+}
+.comenta{
+    margin: 5rem;
+}
+.wrap {
+    flex-wrap: wrap;
+}
+.coment-section {
+    width: 70%;
 }
