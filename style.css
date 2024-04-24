@@ -12,31 +12,22 @@ body{
     margin: 5rem;
 }
 .tarjeta {
-    width: 10rem;
+    text-align: justify;
 }
 .tarjeta img{
-    width: 10rem;
+    width: 7rem;
     height: auto;
     border-radius: 50%;
+}
+.wrap{
+    width: 70%;
+}
+.noticia{
+    width: 40vh;
+    height: auto;
 }
 .Pie-pagina{
     background-color: white;
 }
-.noticia{
-    width: 30%;
-    height: auto;
-}
-.news{
-    width: 30rem;
-    height: auto;
-    margin: 12px;
-}
-.comenta{
-    margin: 5rem;
-}
-.wrap {
-    flex-wrap: wrap;
-}
-.coment-section {
-    width: 70%;
-}
+
+
